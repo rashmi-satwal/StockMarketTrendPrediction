@@ -1,0 +1,1 @@
+This is a Stock Market Trend Prediction model in python programming language. Here I have used the old dataset of TCS company to predict the future value of the financial stocks of a company. You can use any company's dataset.
